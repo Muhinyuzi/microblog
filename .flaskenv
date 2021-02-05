@@ -1,1 +1,3 @@
 FLASK_APP=microblog.py
+
+MS_TRANSLATOR_KEY = 'cc24b1bfb53049cba54146106ee03eb4'
